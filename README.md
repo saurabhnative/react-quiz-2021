@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Online Demo
 https://react-typescript-quiz-freecodecamp.netlify.app/
 
+## Video demo
+https://youtu.be/esylHmoyKcI
+
 ## Tutorial source
 https://www.youtube.com/watch?v=F2JCjVSZlG0
 
